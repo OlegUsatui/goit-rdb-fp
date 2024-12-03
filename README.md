@@ -2,11 +2,13 @@
 Оберіть її як схему за замовчуванням за допомогою SQL-команди.
 
 ![image](https://github.com/user-attachments/assets/92b4471c-656b-4199-b563-56bf998c29d7)
+![image](https://github.com/user-attachments/assets/acdd6e5a-a0ff-4849-9b50-86f5501030f3)
 
 2. Нормалізуйте таблицю infectious_cases до 3ї нормальної форми. Збережіть у цій же схемі дві таблиці з нормалізованими даними.
 
 ![image](https://github.com/user-attachments/assets/857dcd4b-642f-40d3-8ea5-89d22171128e)
 ![image](https://github.com/user-attachments/assets/52fd9645-97c0-4afd-b551-8fb643fba358)
+![image](https://github.com/user-attachments/assets/f353245a-634b-461a-ac7d-1acffeb3b5eb)
 
 3. Проаналізуйте дані:
 
